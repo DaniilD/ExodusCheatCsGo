@@ -1,0 +1,6 @@
+﻿  PUPS-Console.cpp
+C:\Projects\PUPS-Console\PUPS-Console\script.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Projects\PUPS-Console\PUPS-Console\script.h(94,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Projects\PUPS-Console\PUPS-Console\script.h(95,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Projects\PUPS-Console\PUPS-Console\Authorization.h(138): warning C4715: Authorization::queryAuth: значение возвращается не при всех путях выполнения
+  PUPS-Console.vcxproj -> C:\Projects\PUPS-Console\Debug\PUPS-Console.exe

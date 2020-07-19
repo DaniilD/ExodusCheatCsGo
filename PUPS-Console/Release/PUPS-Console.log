@@ -1,0 +1,10 @@
+﻿  PUPS-Console.cpp
+C:\Projects\PUPS-Console\PUPS-Console\script.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Projects\PUPS-Console\PUPS-Console\script.h(94,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Projects\PUPS-Console\PUPS-Console\script.h(95,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  9 of 61 functions (14.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  PUPS-Console.vcxproj -> C:\Projects\PUPS-Console\Release\PUPS-Console.exe

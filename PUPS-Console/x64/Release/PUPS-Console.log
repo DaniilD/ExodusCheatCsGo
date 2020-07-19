@@ -1,0 +1,23 @@
+﻿  PUPS-Console.cpp
+c:\projects\pups-console\pups-console\memorymanager.h(106): warning C4311: приведение типов: усечение указателя из "BYTE *" в "DWORD"
+c:\projects\pups-console\pups-console\memorymanager.h(106): warning C4302: приведение типов: усечение из "BYTE *" к "DWORD"
+c:\projects\pups-console\pups-console\memorymanager.h(107): warning C4311: приведение типов: усечение указателя из "BYTE *" в "DWORD"
+c:\projects\pups-console\pups-console\memorymanager.h(107): warning C4302: приведение типов: усечение из "BYTE *" к "DWORD"
+c:\projects\pups-console\pups-console\script.h(89): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\pups-console\pups-console\script.h(90): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\projects\pups-console\pups-console\memorymanager.h(151): warning C4312: приведение типов: преобразование из "DWORD" в "LPVOID" большего размера
+  c:\projects\pups-console\pups-console\script.h(46): note: выполняется компиляция ссылки на экземпляр шаблон функции "c MemoryManager::read<DWORD>(DWORD)"
+          with
+          [
+              c=DWORD
+          ]
+c:\projects\pups-console\pups-console\memorymanager.h(157): warning C4312: приведение типов: преобразование из "DWORD" в "LPVOID" большего размера
+  c:\projects\pups-console\pups-console\script.h(55): note: выполняется компиляция ссылки на экземпляр шаблон функции "BOOL MemoryManager::write<int>(DWORD,c)"
+          with
+          [
+              c=int
+          ]
+  Создание кода
+  All 24 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  PUPS-Console.vcxproj -> C:\Projects\PUPS-Console\x64\Release\PUPS-Console.exe

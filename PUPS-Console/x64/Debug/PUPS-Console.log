@@ -1,0 +1,47 @@
+﻿  PUPS-Console.cpp
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(173,1): warning C4312: приведение типов: преобразование из "DWORD" в "void *" большего размера
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(173,1): message : Сообщение диагностики возникло в созданной компилятором функции "c MemoryManager::read(DWORD)"
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(106,1): warning C4311: приведение типов: усечение указателя из "BYTE *" в "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(106,1): warning C4302: приведение типов: усечение из "BYTE *" к "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(107,1): warning C4311: приведение типов: усечение указателя из "BYTE *" в "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MemoryManager.h(107,1): warning C4302: приведение типов: усечение из "BYTE *" к "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\script.h(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(35,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37,3): error C2065: fld: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37,17): error C2131: выражение не определяется константой
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37,17): message : сбой вызван чтением переменной вне срока ее существования
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37,17): message : см. использование "radians"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(38,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fsincos"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(38,3): error C2065: fsincos: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,3): error C2065: mov: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "edx"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,7): error C2065: edx: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,12): error C2275: DWORD: недопустимое использование этого типа в качестве выражения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(156): message : см. объявление "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(40,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "PTR"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "mov"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,3): error C2065: mov: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,7): error C2065: eax: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,12): error C2275: DWORD: недопустимое использование этого типа в качестве выражения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(156): message : см. объявление "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(41,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "PTR"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(43,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(43,3): error C2065: fstp: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(43,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(43,18): error C2065: edx: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(43,14): error C2369: PTR: переопределение; различные индексы
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37): message : см. объявление "PTR"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(44,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(44,3): error C2065: fstp: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(44,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "DWORD"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(44,18): error C2065: eax: необъявленный идентификатор
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(45,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(44,14): error C2369: PTR: переопределение; различные индексы
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(37): message : см. объявление "PTR"
+C:\Projects\PUPS-Console\PUPS-Console\MathTools.h(46,1): error C2296: *: недопустимо, левый операнд имеет тип "float *"
+C:\Projects\PUPS-Console\PUPS-Console\script.h(94,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Projects\PUPS-Console\PUPS-Console\script.h(95,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Projects\PUPS-Console\PUPS-Console\Authorization.h(5,10): fatal error C1083: Не удается открыть файл включение: curl/curl.h: No such file or directory,
